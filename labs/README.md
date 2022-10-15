@@ -1,2 +1,0 @@
-# Python
-Collections of labs
