@@ -6,8 +6,8 @@ from os.path import isfile
 import telebot
 from pytube import YouTube
 
-
-bot = telebot.TeleBot('5657599502:AAHEj10I1z69qS_P7EB15620sebTFFdI-kQ')
+mytoken = ''
+bot = telebot.TeleBot(mytoken)
 jsonfilename = 'logs.json'
 
 
